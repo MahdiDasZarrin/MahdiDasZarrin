@@ -2,13 +2,10 @@
 
 ### Mahdi Das Zarrin  
 <div align="center">
-<img src="<a href="https://www.linkpicture.com/view.php?img=LPic62df0960cbf87726924924"><img src="https://www.linkpicture.com/q/image-1_62.png" type="image"></a>" align="center" style="width: 100%" />
+<img src="https://www.linkpicture.com/q/image-1_62.png" type="image">
 </div>  
   
-
-### <div align="center">I'm Mahdi, the expert of Computer Science👨‍💻 🚀</div>  
   
-
 - 🔭 I’m currently working on Tensorflow & Pytorch  
   
 
