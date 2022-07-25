@@ -2,8 +2,7 @@
 
 ### Mahdi Das Zarrin  
 <div align="center">
-<img src="https://i.postimg.cc/764Q0BxC/image-1.png
-" align="center" style="width: 100%" />
+<img src="<a href="https://www.linkpicture.com/view.php?img=LPic62df0960cbf87726924924"><img src="https://www.linkpicture.com/q/image-1_62.png" type="image"></a>" align="center" style="width: 100%" />
 </div>  
   
 
